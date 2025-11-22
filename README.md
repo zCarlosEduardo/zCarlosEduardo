@@ -67,20 +67,20 @@ const carlos = {
   
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Análises
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCarlosEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zCarlosEduardo&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Sequência
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=zCarlosEduardo&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Activity
+## 📈 Atividades
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zCarlosEduardo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Contribution Graph" />
