@@ -37,7 +37,9 @@ const carlos = {
 ## 🐍 Contributions
 
 <div align="center">
-  [![snake animation](https://github.com/zCarlosEduardo/blob/output/github-contribution-grid-snake2.svg).](https://raw.githubusercontent.com/zCarlosEduardo/zCarlosEduardo/output/github-snake-dark.svg)
+  
+![snake animation](https://github.com/zCarlosEduardo/blob/output/github-contribution-grid-snake2.svg)
+    
 </div>
 
 ## 🛠️ Tech Stack
