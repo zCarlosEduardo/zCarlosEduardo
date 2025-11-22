@@ -1,14 +1,9 @@
-# 👨‍💻 Carlos Eduardo de Souza Alonso
+#  Carlos Eduardo de Souza Alonso
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Desenvolvedor+Web+J%C3%BAnior;Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Sempre+aprendendo+%F0%9F%9A%80)
   
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zCarlosEduardo&color=blue&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zCarlosEduardo?style=for-the-badge&color=blue" alt="Followers" />
 </div>
 
 <br>
@@ -19,7 +14,7 @@
 
 ```javascript
 const carlos = {
-  cargo: "Desenvolvedor Web Júnior",
+  cargo: "Analista de Suporte e Desenvolvimento",
   empresa: "ARX Administradora",
   formacao: "Ciências da Computação",
   local: "Goiânia, GO 🇧🇷",
@@ -33,11 +28,17 @@ const carlos = {
   
   estudando: ["React Patterns", "Clean Architecture", "Design Systems"],
   objetivo: "Desenvolvedor Full Stack Sênior",
-  hobbies: ["Coding 💻", "Gaming 🎮", "Tech News 📱"]
+  hobbies: ["Coding 💻", "Gaming 🎮",]
 };
 ```
 
 <br><br>
+
+## 🐍 Contributions Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zCarlosEduardo/zCarlosEduardo/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -71,16 +72,6 @@ const carlos = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zCarlosEduardo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zCarlosEduardo&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zCarlosEduardo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🚀 Projetos em Destaque
 
 <div align="center">
@@ -100,7 +91,7 @@ Sistema de gamificação para gestão de incentivos corporativos com Next.js, Re
 ### 🛍️ [Black Ancore](https://github.com/zCarlosEduardo/black-ancore)
 Landing page promocional para Black Friday 2024 com design moderno e responsivo.
 
-**Stack:** `Next.js` `TypeScript` | **Live:** [black.ancore.app](https://black.ancore.app)
+**Stack:** `Next.js` `TypeScript` | **Demo:** [black.ancore.app](https://black.ancore.app)
 
 ---
 
@@ -116,50 +107,6 @@ Timer Pomodoro minimalista para produtividade desenvolvido com HTML, CSS e JavaS
 
 **Stack:** `HTML` `CSS` `JavaScript`
 
-## 🐍 Contributions Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zCarlosEduardo/zCarlosEduardo/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zCarlosEduardo&custom_title=Carlos%20Eduardo's%20Contribution%20Graph&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 💼 Experiência
-
-```typescript
-interface Experience {
-  cargo: string;
-  empresa: string;
-  periodo: string;
-  tecnologias: string[];
-}
-
-const experiencias: Experience[] = [
-  {
-    cargo: "Analista de Suporte e Desenvolvimento",
-    empresa: "ARX Administradora",
-    periodo: "Mai/2025 - Atual",
-    tecnologias: ["Next.js", "React", "TypeScript", "PostgreSQL", "Prisma", "Docker"]
-  },
-  {
-    cargo: "Assistente de TI",
-    empresa: "SferaRol-Planalto",
-    periodo: "Jun/2024 - Abr/2025",
-    tecnologias: ["Windows", "Microsoft 365", "CFTV", "Suporte N1/N2"]
-  },
-  {
-    cargo: "Analista de Suporte (Help Desk)",
-    empresa: "Rede Tatico de Supermercados",
-    periodo: "Jul/2023 - Mai/2024",
-    tecnologias: ["Windows", "Active Directory", "ERP", "GLPI", "PDV"]
-  }
-];
-```
-
 ## 📫 Como me encontrar
 
 <div align="center">
@@ -172,20 +119,3 @@ const experiencias: Experience[] = [
   
 </div>
 
-<div align="center">
-  
-  ### 💬 "O código é como humor. Quando você tem que explicá-lo, é ruim." - Cory House
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **⭐ From [zCarlosEduardo](https://github.com/zCarlosEduardo)**
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-  
-</div>
