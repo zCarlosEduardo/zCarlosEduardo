@@ -34,12 +34,12 @@ const carlos = {
 
 <br><br>
 
-## 🐍 Contributions
+## 🐍 Contributions Snake
 
 <div align="center">
   
-![snake animation](https://github.com/zCarlosEduardo/blob/output/github-contribution-grid-snake2.svg)
-    
+  <img src="https://raw.githubusercontent.com/zCarlosEduardo/zCarlosEduardo/output/github-snake-dark.svg" alt="Snake animation" />
+  
 </div>
 
 ## 🛠️ Tech Stack
