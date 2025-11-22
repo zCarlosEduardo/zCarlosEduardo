@@ -37,7 +37,7 @@ const carlos = {
 ## 🐍 Contributions Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zCarlosEduardo/zCarlosEduardo/output/github-snake-dark.svg" alt="Snake animation" />
+  ![snake animation](https://github.com/zCarlosEduardo/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 ## 🛠️ Tech Stack
