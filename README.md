@@ -34,10 +34,10 @@ const carlos = {
 
 <br><br>
 
-## 🐍 Contributions Snake
+## 🐍 Contributions
 
 <div align="center">
-  ![snake animation](https://github.com/zCarlosEduardo/blob/output/github-contribution-grid-snake2.svg)
+  [![snake animation](https://github.com/zCarlosEduardo/blob/output/github-contribution-grid-snake2.svg).](https://raw.githubusercontent.com/zCarlosEduardo/zCarlosEduardo/output/github-snake-dark.svg)
 </div>
 
 ## 🛠️ Tech Stack
