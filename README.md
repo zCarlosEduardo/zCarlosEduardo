@@ -77,13 +77,13 @@ const carlos = {
 ## 🔥 GitHub Sequência
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zCarlosEduardo&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zCarlosEduardo&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Sequência" />
 </div>
 
 ## 📈 Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zCarlosEduardo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zCarlosEduardo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Atividades Graph" />
 </div>
 
 ## 🚀 Projetos em Destaque
