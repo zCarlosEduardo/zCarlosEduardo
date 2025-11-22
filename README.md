@@ -4,13 +4,19 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Carlos+Eduardo;Desenvolvedor+Full+Stack+J%C3%BAnior;Next.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;Next.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL)](https://git.io/typing-svg)
   
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zCarlosEduardo&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/zCarlosEduardo?style=for-the-badge&color=blue&label=SEGUIDORES" alt="Followers" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-alonso-3a1462292/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cseduardoalonso@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562983263038)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.eduzin/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/zCarlosEduardo)
+  
 </div>
 
 <br>
@@ -65,8 +71,8 @@ const carlos = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCarlosEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zCarlosEduardo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCarlosEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zCarlosEduardo&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🔥 GitHub Streak
@@ -79,12 +85,6 @@ const carlos = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zCarlosEduardo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zCarlosEduardo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ## 🚀 Projetos em Destaque
@@ -121,31 +121,3 @@ Landing page institucional para empresa de automação empresarial.
 Timer Pomodoro minimalista para produtividade desenvolvido com HTML, CSS e JavaScript puro.
 
 **Stack:** `HTML` `CSS` `JavaScript`
-
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-## 📫 Como me encontrar
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-alonso-3a1462292/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cseduardoalonso@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562983263038)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.eduzin/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/zCarlosEduardo)
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-  ### 💻 "Code is poetry in motion"
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  
-</div>
