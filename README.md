@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Carlos%20Eduardo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Carlos%20Eduardo&fontSize=50&fontColor=fff" />
 </div>
 
 <div align="center">
@@ -20,8 +20,6 @@
 </div>
 
 <br>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### 🚀 Sobre mim
 
