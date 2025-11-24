@@ -30,6 +30,10 @@ const carlos = {
   empresa: "ARX Administradora",
   formacao: "Ciências da Computação",
   local: "Goiânia, GO 🇧🇷",
+
+  sobre: {
+  descricao: "Em Breve"
+  }
   
   tecnologias: {
     frontend: ["Next.js", "React", "TypeScript", "JavaScript"],
@@ -38,7 +42,7 @@ const carlos = {
     ferramentas: ["Figma", "VS Code", "GitHub"]
   },
   
-  estudando: ["React Patterns", "Clean Architecture", "Design Systems"],
+  estudando: ["React", "Next.Js", "JavaScript", "TypeScript", "ProstgreSQL", "Docker"],
   objetivo: "Desenvolvedor Full Stack Sênior",
   hobbies: ["Coding 💻", "Gaming 🎮"]
 };
