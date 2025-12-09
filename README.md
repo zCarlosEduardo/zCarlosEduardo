@@ -94,8 +94,8 @@ const carlos = {
 
 <div align="center">
 
-[![Coin Sys](https://github-readme-stats.vercel.app/api/pin/?username=zCarlosEduardo&repo=coin-sys&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zCarlosEduardo/coin-sys)
-[![Black Ancore](https://github-readme-stats.vercel.app/api/pin/?username=zCarlosEduardo&repo=black-ancore&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zCarlosEduardo/black-ancore)
+<!-- [![Coin Sys](https://github-readme-stats.vercel.app/api/pin/?username=zCarlosEduardo&repo=coin-sys&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zCarlosEduardo/coin-sys)
+[![Black Ancore](https://github-readme-stats.vercel.app/api/pin/?username=zCarlosEduardo&repo=black-ancore&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zCarlosEduardo/black-ancore) --> 
 
 </div>
 
@@ -107,9 +107,9 @@ Sistema de gamificação para gestão de incentivos corporativos com Next.js, Re
 ---
 
 ### 🛍️ [Black Ancore](https://github.com/zCarlosEduardo/black-ancore)
-Landing page promocional para Black Friday 2024 com design moderno e responsivo.
+Landing page promocional para Black Friday 2025 com design moderno e responsivo.
 
-**Stack:** `Next.js` `TypeScript` | **Demo:** [black.ancore.app](https://black.ancore.app)
+**Stack:** `Next.js` `TypeScript` | <!-- **Demo:** [black.ancore.app](https://black.ancore.app) --> **Status:** Finalizado
 
 ---
 
